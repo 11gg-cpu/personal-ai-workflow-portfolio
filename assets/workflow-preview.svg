@@ -1,0 +1,11 @@
+<svg width="1100" height="360" viewBox="0 0 1100 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1100" height="360" rx="24" fill="#F8FAFC"/>
+  <rect x="42" y="38" width="1016" height="284" rx="20" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="72" y="88" fill="#0F172A" font-family="Inter, Arial" font-size="26" font-weight="800">Personal AI Workflow Map</text>
+  <text x="72" y="122" fill="#64748B" font-family="Inter, Arial" font-size="15">AI tools used as structured collaborators, not a replacement for judgment.</text>
+  <rect x="82" y="170" width="170" height="76" rx="14" fill="#DBEAFE"/><text x="112" y="216" fill="#1E3A8A" font-family="Inter, Arial" font-size="17" font-weight="800">Plan</text>
+  <rect x="292" y="170" width="170" height="76" rx="14" fill="#EDE9FE"/><text x="322" y="216" fill="#4C1D95" font-family="Inter, Arial" font-size="17" font-weight="800">Prompt</text>
+  <rect x="502" y="170" width="170" height="76" rx="14" fill="#CCFBF1"/><text x="532" y="216" fill="#134E4A" font-family="Inter, Arial" font-size="17" font-weight="800">Create</text>
+  <rect x="712" y="170" width="170" height="76" rx="14" fill="#FEF3C7"/><text x="742" y="216" fill="#92400E" font-family="Inter, Arial" font-size="17" font-weight="800">Validate</text>
+  <rect x="922" y="170" width="100" height="76" rx="14" fill="#DCFCE7"/><text x="944" y="216" fill="#166534" font-family="Inter, Arial" font-size="17" font-weight="800">Ship</text>
+</svg>

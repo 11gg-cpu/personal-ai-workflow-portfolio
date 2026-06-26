@@ -21,6 +21,12 @@ A portfolio of practical workflows showing how I use AI tools to support job sea
 | Main skills | Prompt workflows, task decomposition, validation loops, documentation |
 | Recruiter signal | Can use AI responsibly to improve speed and output quality |
 
+## Workflow Preview
+
+<p align="center">
+  <img src="assets/workflow-preview.svg" alt="Personal AI workflow preview" width="100%" />
+</p>
+
 ## Project Background
 
 I regularly use ChatGPT, Claude, Gemini, Cursor, Codex, and Canva as part of my learning and project workflow. This repository explains how I use these tools responsibly: to structure thinking, speed up execution, compare approaches, and improve communication.
@@ -77,3 +83,13 @@ personal-ai-workflow-portfolio/
 ## Resume Bullet
 
 - Documented a personal AI workflow portfolio showing how ChatGPT, Claude, Gemini, Cursor, Codex, and Canva support research, data analysis, content creation, automation, and MVP prototyping.
+
+## Next Improvements
+
+- Add screenshots of representative AI-assisted workflows.
+- Add one case study for job search and one for data analysis.
+- Add a prompt library organized by task type.
+
+## Contact
+
+For questions or collaboration: [steventang30999@gmail.com](mailto:steventang30999@gmail.com)
