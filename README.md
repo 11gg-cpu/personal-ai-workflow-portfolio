@@ -1,6 +1,25 @@
+<p align="center">
+  <img src="assets/project-banner.svg" alt="Personal AI Workflow Portfolio banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Workflow-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-ChatGPT%20%7C%20Claude%20%7C%20Gemini%20%7C%20Codex-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Principle-AI%20with%20Human%20Validation-0D9488?style=flat-square" />
+</p>
+
 # Personal AI Workflow Portfolio
 
 A portfolio of practical workflows showing how I use AI tools to support job search, research, data analysis, presentations, content creation, automation, and prototype development.
+
+## At a Glance
+
+| Item | Detail |
+| --- | --- |
+| Role fit | AI product, AI operations, data analytics with AI tooling |
+| Core value | Makes AI tool experience concrete instead of vague |
+| Main skills | Prompt workflows, task decomposition, validation loops, documentation |
+| Recruiter signal | Can use AI responsibly to improve speed and output quality |
 
 ## Project Background
 
